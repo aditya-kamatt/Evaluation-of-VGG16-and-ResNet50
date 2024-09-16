@@ -9,6 +9,7 @@ This project evaluates and compares the performance of two popular convolutional
 - `Evaluating_and_Testing_Pre_Trained_Models.ipynb`: Final evaluation and comparison of both models.
 - `classifier_resnet_model.h5`: Saved weights for the ResNet50 model.
 - `classifier_vgg16_model.h5`: Saved weights for the VGG16 model.
+- `requirements.txt`: Required Packages and Libraries
 
 ## Requirements
 - Python 3.x
